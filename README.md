@@ -1,7 +1,5 @@
 # Samuel Buit 👋
 
-**Manufacturing Systems Engineer | Research Enginer | Developer**
-
 ## 🌟 Recent Interests & Activities:
 
 - **🌐 IoT & Telemetry:** Developing experience with high-speed telemetry systems, sparking a strong interest in IoT applications within manufacturing environments.
