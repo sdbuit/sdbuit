@@ -2,8 +2,6 @@
 
 **Manufacturing Systems Engineer | Research Enginer | Developer**
 
-* 🎓 Recent graduate in **Manufacturing Systems Engineering** with minors in **Mathematics** and **Computer Science**.  My passion lies at the intersection of engineering, software development, and data analytics/ML.
-
 ## 🌟 Recent Interests & Activities:
 
 - **🌐 IoT & Telemetry:** Developing experience with high-speed telemetry systems, sparking a strong interest in IoT applications within manufacturing environments.
@@ -20,4 +18,4 @@
 
 ---
 
-Always eager to collaborate on meaningful projects.  Feel free to connect via [Linkedin](www.linkedin.com/in/sambuit).
+Feel free to connect via [Linkedin](www.linkedin.com/in/sambuit).
