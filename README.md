@@ -16,4 +16,4 @@
 
 ---
 
-Feel free to connect via [Linkedin](www.linkedin.com/in/sambuit).
+Feel free to connect via [Linkedin](https://www.linkedin.com/in/sambuit).
